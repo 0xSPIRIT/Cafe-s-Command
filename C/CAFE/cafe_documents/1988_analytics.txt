@@ -1,0 +1,21 @@
+CUSTOMER DATA SPREADSHEET - 1988.
+
+Name            Age             Sex             Times/Week          Converted?      Notes
+
+Jonathan H.     23              M               25                  yes             -
+
+Stephanie G.    30              F               19                  no              -
+
+Rachel S.       27              F               23                  yes             -
+
+Terrance F.     35              M               45                  yes             Special conversion applied.
+
+Craig P.        32              M               10                  no              -
+
+Trisha A.       20              F               40                  yes             Special conversion applied.
+
+[DATA_LOST]     52              M               1                   [DATA_LOST]     -
+
+[DATA_LOST]     [DATA_LOST]     [DATA_LOST]     3                   [DATA_LOST]     -
+
+null            null            null            null                null            null

@@ -1,0 +1,20 @@
+B.O.B. is an artificial intelligence designed by CAFE in 1988.
+The following documents the results of the A.I for each week.
+
+Week 1:
+    - BOB has just finished being implemented. The program is working as intended.
+Week 2:
+    - BOB has been documenting certain aspects of the conversion process. It is a very useful tool.
+Week 3:
+    - In our implementation of BOB, we programmed a self-learning system- we feed it information, and it learns.
+    - BOB has uttered his first words into the console: "alive". This is very exciting.
+Week 4:
+    - BOB is speaking fluent English. We have conversations regularly.
+    - BOB has mutated. The program now has senses.
+Week 5: 
+    - BOB is strangely silent.
+Week 6:
+    - Everyone disappeared. What is going on?
+    - BOB is suddenly on all the computers.
+Week 7:
+    =)

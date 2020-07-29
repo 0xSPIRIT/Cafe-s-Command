@@ -1,0 +1,27 @@
+The game begins with text prompting you to enter your real name.
+
+It is the year 1989
+The government has received note of a hack-in at their ultra-secure servers, which contain very important, classified documents.
+We have traced their signals back to a server owned by CAFE, a multinational corporation.
+We trust you to hack into their system and completely delete the required files.
+...
+Good luck.
+
+------------------
+
+You will have to use a password cracker on a password-protected folder.
+You will then gain access to a text file, stating that "If you are reading this, that means you've broken into my system."
+It goes on to say what the documents that were hacked contains-
+The documents are owned by the U.S. army, and it contains codes for a cutting-edge super-weapon.
+It can wipe out entire countries with one press of a button.
+The text file urges you to not go on, saying if "we" have the codes, the weapons will never be set off,
+because of safety protocols that are installed in the program.
+
+You continue forth, with another file in the folder containing a password.
+This opens a zip file (you actually have to go into the game's files on your computer to extract the file)
+This contains one of the documents. You can either choose to keep it for yourself, or destroy it.
+In the zip file there is another text file that addresses you, the player. It explains to you
+to go once more, further into your own computer, and seek the last document.
+
+You find a zip file in the same directory C is in. You extract it, with a password.
+2-5-1. 

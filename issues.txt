@@ -1,0 +1,12 @@
+Current issues with the game:
+
+- Add sound effects.
+
+- Game layout (Main Progression)
+	x Go into images. Find coffee password.
+	x Open sec_document.
+	x Open access_key, and get riddle for games password. - conversion
+	x Go to games, and get password for music.
+	x In music,	get morse code for a password to a game.
+	x Go back to games, and play Furious.
+	x Unzip, and finish the game.
